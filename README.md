@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal projects<br>
+🔭 I’m currently working on my personal projects (private)<br>
 
 # 💫 My Articles:
 
