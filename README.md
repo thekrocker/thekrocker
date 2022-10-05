@@ -2,10 +2,10 @@
 🔭 I’m currently working on my personal projects<br>
 
 # 💫 My Articles:
-!Scriptable Objects & How to Manage Them: https://www.sdedeakay.com/genel/unity-scriptable-objects-iyilestirilmis-veri-yonetimi.html
-!Unity Attributes: https://www.sdedeakay.com/unity/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik.html
-!Extension Methods: https://www.sdedeakay.com/csharp/extension-methods.html
-!C# Generics: https://www.sdedeakay.com/csharp/c-generics-nedir.html
+[Scriptable Objects & How to Manage Them]([https://www.google.com](https://www.sdedeakay.com/genel/unity-scriptable-objects-iyilestirilmis-veri-yonetimi.html))
+Unity Attributes: https://www.sdedeakay.com/unity/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik.html
+Extension Methods: https://www.sdedeakay.com/csharp/extension-methods.html
+C# Generics: https://www.sdedeakay.com/csharp/c-generics-nedir.html
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dedeakay.cs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safadedeakay/) 
