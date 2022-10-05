@@ -4,8 +4,11 @@
 # 💫 My Articles:
 
 [Scriptable Objects & How to Manage Them](https://www.sdedeakay.com/genel/unity-scriptable-objects-iyilestirilmis-veri-yonetimi.html)
+
 [Unity Attributes]( https://www.sdedeakay.com/unity/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik.html)
+
 [Extension Methods](https://www.sdedeakay.com/csharp/extension-methods.html)
+
 [C# Generics](https://www.sdedeakay.com/csharp/c-generics-nedir.html)
 
 
