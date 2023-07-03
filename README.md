@@ -3,9 +3,9 @@
 
 # 💫 My Articles:
 
-[Scriptable Objects & How to Manage Them](https://www.sdedeakay.com/2022/06/25/unity-scriptable-objects-iyilestirilmis-veri-yonetimi/))
+[Scriptable Objects & How to Manage Them](https://www.sdedeakay.com/2022/06/25/unity-scriptable-objects-iyilestirilmis-veri-yonetimi/)
 
-[Unity Attributes](https://www.sdedeakay.com/2022/02/09/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik/))
+[Unity Attributes](https://www.sdedeakay.com/2022/02/09/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik/)
 
 [Extension Methods](https://www.sdedeakay.com/2021/12/30/extension-methods/)
 
