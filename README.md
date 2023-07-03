@@ -3,13 +3,13 @@
 
 # 💫 My Articles:
 
-[Scriptable Objects & How to Manage Them](https://www.sdedeakay.com/genel/unity-scriptable-objects-iyilestirilmis-veri-yonetimi.html)
+[Scriptable Objects & How to Manage Them](https://www.sdedeakay.com/2022/06/25/unity-scriptable-objects-iyilestirilmis-veri-yonetimi/))
 
-[Unity Attributes]( https://www.sdedeakay.com/unity/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik.html)
+[Unity Attributes](https://www.sdedeakay.com/2022/02/09/unity-attributes-inspector-kullanimini-kolaylastiran-8-ozellik/))
 
-[Extension Methods](https://www.sdedeakay.com/csharp/extension-methods.html)
+[Extension Methods](https://www.sdedeakay.com/2021/12/30/extension-methods/)
 
-[C# Generics](https://www.sdedeakay.com/csharp/c-generics-nedir.html)
+[C# Generics](https://www.sdedeakay.com/2021/12/28/c-generics-nedir/)
 
 
 ## 🌐 Socials:
